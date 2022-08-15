@@ -1,0 +1,23 @@
+#cart-add {
+    flex-direction: column;
+}
+#cuopon,
+#subtotal {
+    width: 100%;
+}
+#subtotal {
+    padding: 20px;
+}
+/* SIngle Product */
+#prodetails {
+    flex-direction: column;
+}
+#prodetails .single-pro-image {
+    width: 100%;
+    margin-right: 0px;
+}
+#prodetails .single-pro-details {
+    width: 100%;
+    padding-top: 30px;
+}
+}
